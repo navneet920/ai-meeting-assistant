@@ -1,0 +1,60 @@
+# -----------------------------
+# Backend / API
+# -----------------------------
+fastapi
+uvicorn
+python-multipart
+
+# -----------------------------
+# Database
+# -----------------------------
+sqlalchemy
+alembic
+
+# -----------------------------
+# Config / Validation
+# -----------------------------
+pydantic
+pydantic-settings
+python-dotenv
+PyYAML
+
+# -----------------------------
+# Core AI / ML
+# -----------------------------
+openai-whisper
+torch
+torchaudio
+transformers
+sentence-transformers
+pyannote.audio
+scikit-learn
+numpy
+pandas
+scipy
+
+# -----------------------------
+# Audio Processing
+# -----------------------------
+librosa
+soundfile
+pydub
+ffmpeg-python
+
+# -----------------------------
+# Language / Utilities
+# -----------------------------
+langdetect
+requests
+httpx
+
+# -----------------------------
+# Vector Search
+# -----------------------------
+faiss-cpu
+
+# -----------------------------
+# Testing
+# -----------------------------
+pytest
+pytest-asyncio
